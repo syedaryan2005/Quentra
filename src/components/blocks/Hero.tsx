@@ -25,7 +25,7 @@ const SLIDES = [
   {
     image: "/project-5.png",
     quote:
-      "Amazing service and great prices! The staff at NKS Parts helped me identify the right alternator for my car, and it's been running smoothly ever since. Highly recommended!",
+      "Amazing service and great prices! The staff at NKS Parts helped me identify the right alternator for my car, and it&apos;s been running smoothly ever since. Highly recommended!",
     author: "— Mark L., San Diego, CA",
   },
 ];
@@ -77,7 +77,7 @@ export default function Hero() {
           <span className="font-semibold">At Quentra Real Estate,</span> we go beyond
           building properties—we build legacies. Our mission is rooted in shaping
           modern lifestyles through smart, sustainable, and visionary developments.
-          From residential communities to commercial landmarks, we're dedicated to
+          From residential communities to commercial landmarks, we&apos;re dedicated to
           transforming spaces that elevate everyday living.
         </div>
 

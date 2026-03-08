@@ -78,10 +78,10 @@ function page() {
                           flex flex-col px-6 sm:px-8 py-5 shadow-xl rounded-2xl m-4 sm:m-6 md:m-8
                           min-h-[360px] md:min-h-[400px]">
             <h1 className="py-4 sm:py-6 w-full max-w-[470px] font-normal leading-none text-xl sm:text-2xl text-[#5B5B5B]">
-              The USA's Visionary Rise in Real <br /> Estate Development
+              The USA&apos;s Visionary Rise in Real <br /> Estate Development
             </h1>
             <p className="w-full max-w-[473px] leading-snug text-[#5B5B5BB2] text-sm sm:text-base">
-              Explore how the USA is redefining skylines through innovative architecture, sustainable planning, and our firm's role in shaping iconic living and commercial spaces.
+              Explore how the USA is redefining skylines through innovative architecture, sustainable planning, and our firm&apos;s role in shaping iconic living and commercial spaces.
             </p>
             <h1 className="border border-[#bdb9b9] mt-6 lg:mt-28" />
             <div className="flex items-center justify-between pt-3">

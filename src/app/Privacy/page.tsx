@@ -59,7 +59,7 @@ function page() {
               <span className="font-medium">Report Immediately:</span> Contact us right away if you suspect someone has gained access to your password, user credentials, or any confidential details linked to your Quentra account.
             </li>
             <li>
-              <span className="font-medium">Be Cautious Online:</span> Never share personal or confidential information over the phone or the internet unless you are sure of the recipient’s identity.
+              <span className="font-medium">Be Cautious Online:</span> Never share personal or confidential information over the phone or the internet unless you are sure of the recipient&apos;s identity.
             </li>
             <li>
               <span className="font-medium">Use Secure Connections:</span> When making online transactions, always use a secure browser. Ensure antivirus software is active and that unused applications on the network are closed.
@@ -71,7 +71,7 @@ function page() {
               <span className="font-medium">Data Security:</span> All electronic storage and transmission of personal data are protected using industry-standard security technologies to ensure confidentiality and safety.
             </li>
             <li>
-              <span className="font-medium">Third-Party Sites Disclaimer:</span> Our website may contain links to external sites with different privacy policies. Quentra Real Estate isn’t responsible for their content or data practices. Review their policies before sharing personal information.
+              <span className="font-medium">Third-Party Sites Disclaimer:</span> Our website may contain links to external sites with different privacy policies. Quentra Real Estate isn&apos;t responsible for their content or data practices. Review their policies before sharing personal information.
             </li>
           </ol>
 

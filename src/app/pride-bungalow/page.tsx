@@ -14,7 +14,7 @@ function Bungalow() {
           <FaArrowAltCircleRight />
           <span className='font-normal text-xs'>Blogs</span>
           <FaArrowAltCircleRight />
-          <span className='font-normal text-xs'>The USA's Visionary Rise in Real Estate Development</span>
+          <span className='font-normal text-xs'>The USA&apos;s Visionary Rise in Real Estate Development</span>
         </div>
         <div className='px-8 lg:px-20 py-8 lg:py-14 flex flex-col items-start gap-3'>
           <h1 className='font-normal text-xl lg:text-2xl xl:text-4xl 2xl:text-5xl'>Mayor House</h1>
@@ -27,19 +27,19 @@ function Bungalow() {
           />
           <div className='flex flex-col gap-8 lg:gap-14'>
             <p className='font-normal text-[#6B7280] text-base lg:text-lg leading-relaxed'>
-              After the first wave of modern real estate projects broke ground under Quentr's leadership in the United States, and after passing rigorous planning and compliance procedures, domestic developments including Zlatna Heights, Puder Residences, Oaza Living, Love Kent Villas, Jaro Square, Tajna Towers, and Wiwia Estates have already made their mark across one of the most innovative and concept-driven commercial real estate zones in the country.
+              After the first wave of modern real estate projects broke ground under Quentr&apos;s leadership in the United States, and after passing rigorous planning and compliance procedures, domestic developments including Zlatna Heights, Puder Residences, Oaza Living, Love Kent Villas, Jaro Square, Tajna Towers, and Wiwia Estates have already made their mark across one of the most innovative and concept-driven commercial real estate zones in the country.
             </p>
             <p className='font-normal text-[#6B7280] text-base lg:text-lg leading-relaxed'>
               In addition to Quentra, among the key developers are Oaza Springs - Tešanjski Build Co., Klas Urban Developments - Sarajevo, Akova Construction Group, Voćar Properties - Brčko, Hepok Landmarks - Mostar, Sava Construction - Bijeljina, Spektar Infrastructure, Semberija Urban Co. - Bijeljina, and Kondisa Projects - Sarajevo.
             </p>
             <p className='font-normal text-[#6B7280] text-base lg:text-lg leading-relaxed'>
-              "This isn't the first time we've developed in high-demand zones. I'd like to remind you that a little over a year and a half ago, we completed key developments in Saudi Arabia. We're proud that this time, we're not entering the U.S. market alone, but alongside a group of Bosnian-rooted companies whose commitment to quality is without question. I believe this is one of the key strategies for leveraging the strength of unified domestic expertise," said Quentra's International Project Manager, Muhamed Muzaferija.
+              "This isn&apos;t the first time we&apos;ve developed in high-demand zones. I&apos;d like to remind you that a little over a year and a half ago, we completed key developments in Saudi Arabia. We&apos;re proud that this time, we&apos;re not entering the U.S. market alone, but alongside a group of Bosnian-rooted companies whose commitment to quality is without question. I believe this is one of the key strategies for leveraging the strength of unified domestic expertise," said Quentra&apos;s International Project Manager, Muhamed Muzaferija.
             </p>
             <p className='font-normal text-[#6B7280] text-base lg:text-lg leading-relaxed pt-6'>
               These projects are being coordinated in collaboration with Balkan Development Corporation USA, which is committed to continuously expanding infrastructure networks and creating dynamic living and commercial spaces throughout North America.
             </p>
             <p className='font-normal text-[#6B7280] text-base lg:text-lg leading-relaxed'>
-              "I'm proud that it's now crystal clear — we've entered a groundbreaking market together, and through the front door. We're now part of the largest experiential real estate model in the U.S., including Thematic Urban Living Zones and major spaces such as Geant Commercial District, one of the leading hyper-commercial developments in the region. Very soon, as part of the second phase of this expansion, we will roll out our projects across other strategic cities including Los Angeles, Houston, and Miami," said Zlatko Kartal, representative of Balkan Development Corporation.
+              "I&apos;m proud that it&apos;s now crystal clear — we&apos;ve entered a groundbreaking market together, and through the front door. We&apos;re now part of the largest experiential real estate model in the U.S., including Thematic Urban Living Zones and major spaces such as Geant Commercial District, one of the leading hyper-commercial developments in the region. Very soon, as part of the second phase of this expansion, we will roll out our projects across other strategic cities including Los Angeles, Houston, and Miami," said Zlatko Kartal, representative of Balkan Development Corporation.
             </p>
             <p className='font-normal text-[#6B7280] text-base lg:text-lg leading-relaxed'>
               Themed commercial districts across the USA are reshaping the real estate landscape. These developments proudly combine residential excellence, commercial vibrancy, lifestyle integration, and educational environments into one. Originally designed around bold, visionary urban concepts, these modern real estate hubs boast a vibrant mix of retail spaces, culinary experiences, entertainment centers, and community-driven living environments — reshaping how people live, work, and grow.
@@ -86,7 +86,7 @@ function Bungalow() {
             <li className="px-1 text-gray-500">
               <FaArrowAltCircleRight className="inline-block align-middle h-3 w-3 sm:h-3.5 sm:w-3.5" />
             </li>
-            <li className="font-medium text-xs sm:text-sm">The USA's Visionary Rise in Real Estate Development</li>
+            <li className="font-medium text-xs sm:text-sm">The USA&apos;s Visionary Rise in Real Estate Development</li>
           </ol>
         </nav>
 
@@ -109,7 +109,7 @@ function Bungalow() {
           
           <div className="mt-6 sm:mt-8 lg:mt-10 space-y-4 sm:space-y-6">
             <p className="text-gray-600 text-sm sm:text-base lg:text-lg leading-relaxed">
-              After the first wave of modern real estate projects broke ground under Quentr's leadership
+              After the first wave of modern real estate projects broke ground under Quentr&apos;s leadership
               in the United States, and after passing rigorous planning and compliance procedures, domestic
               developments including Zlatna Heights, Puder Residences, Oaza Living, Love Kent Villas, Jaro
               Square, Tajna Towers, and Wiwia Estates have already made their mark across one of the most
@@ -124,7 +124,7 @@ function Bungalow() {
             </p>
 
             <p className="text-gray-600 text-sm sm:text-base lg:text-lg leading-relaxed">
-              "This isn't the first time we've developed in high-demand zones. I'd like to remind you that a little over a year and a half ago, we completed key developments in Saudi Arabia. We're proud that this time, we're not entering the U.S. market alone, but alongside a group of Bosnian-rooted companies whose commitment to quality is without question. I believe this is one of the key strategies for leveraging the strength of unified domestic expertise," said Quentra's International Project Manager, Muhamed Muzaferija.
+              "This isn&apos;t the first time we&apos;ve developed in high-demand zones. I&apos;d like to remind you that a little over a year and a half ago, we completed key developments in Saudi Arabia. We&apos;re proud that this time, we&apos;re not entering the U.S. market alone, but alongside a group of Bosnian-rooted companies whose commitment to quality is without question. I believe this is one of the key strategies for leveraging the strength of unified domestic expertise," said Quentra&apos;s International Project Manager, Muhamed Muzaferija.
             </p>
 
             <p className="text-gray-600 text-sm sm:text-base lg:text-lg leading-relaxed">
@@ -134,7 +134,7 @@ function Bungalow() {
             </p>
 
             <p className="text-gray-600 text-sm sm:text-base lg:text-lg leading-relaxed">
-              "I'm proud that it's now crystal clear — we've entered a groundbreaking market together, and through the front door. We're now part of the largest experiential real estate model in the U.S., including Thematic Urban Living Zones and major spaces such as Geant Commercial District, one of the leading hyper-commercial developments in the region. Very soon, as part of the second phase of this expansion, we will roll out our projects across other strategic cities including Los Angeles, Houston, and Miami," said Zlatko Kartal, representative of Balkan Development Corporation.
+              "I&apos;m proud that it&apos;s now crystal clear — we&apos;ve entered a groundbreaking market together, and through the front door. We&apos;re now part of the largest experiential real estate model in the U.S., including Thematic Urban Living Zones and major spaces such as Geant Commercial District, one of the leading hyper-commercial developments in the region. Very soon, as part of the second phase of this expansion, we will roll out our projects across other strategic cities including Los Angeles, Houston, and Miami," said Zlatko Kartal, representative of Balkan Development Corporation.
             </p>
 
             <p className="text-gray-600 text-sm sm:text-base lg:text-lg leading-relaxed">

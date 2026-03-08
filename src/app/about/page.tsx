@@ -82,7 +82,7 @@ function About() {
               go beyond building properties—we build legacies. Our mission is
               rooted in shaping modern lifestyles through smart, sustainable,
               and visionary developments. From residential communities to
-              commercial landmarks, we're dedicated to transforming spaces that
+              commercial landmarks, we&apos;re dedicated to transforming spaces that
               elevate everyday living.
             </p>
             <div className="flex items-center gap-4 sm:gap-8 pt-2">

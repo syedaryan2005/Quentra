@@ -12,7 +12,7 @@ function Footer() {
           {/* Left */}
           <div className="md:pl-12 lg:pl-16 xl:pl-20">
             <h1 className="font-normal leading-tight text-3xl sm:text-4xl md:text-5xl lg:text-6xl max-w-md md:max-w-none">
-              LET'S CONNECT
+              LET&apos;S CONNECT
             </h1>
 
             <p className="mt-4 text-sm sm:text-base font-light text-white/80 max-w-md md:max-w-lg">

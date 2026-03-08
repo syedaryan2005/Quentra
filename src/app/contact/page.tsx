@@ -70,7 +70,7 @@ export default function ContactPage() {
       <div className='flex flex-col gap-4 xs:gap-5 sm:gap-6'>
         <h1 className='capitalize font-semibold text-xl xs:text-2xl sm:text-3xl md:text-4xl lg:text-3xl xl:text-4xl leading-tight'>Get in Touch with Our Real Estate Experts in the USA</h1>
         <p className='font-normal text-sm xs:text-base sm:text-base text-[#5B5B5BB2] leading-relaxed'>
-          Based in one of the world's most dynamic property markets, we bring years of industry experience and insight to every project. Whether you're planning to build, invest, or renovate, our team is here to guide you. We deliver trusted construction solutions that ensure quality, value, and long-term success.
+          Based in one of the world&apos;s most dynamic property markets, we bring years of industry experience and insight to every project. Whether you&apos;re planning to build, invest, or renovate, our team is here to guide you. We deliver trusted construction solutions that ensure quality, value, and long-term success.
         </p>
         <div className='inline-flex items-start justify-start gap-2'>
           <LuFacebook className='w-8 h-8 xs:w-9 xs:h-9 sm:w-10 sm:h-10 border rounded-full border-[#22223C33] p-1.5 xs:p-2 hover:bg-gray-50 transition-colors cursor-pointer'/>

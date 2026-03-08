@@ -7,7 +7,7 @@ type Slide = { heading: string; body: string };
 const slides: Slide[] = [
   {
     heading: "OUR VISION",
-    body: "To redefine urban living by building sustainable, innovative, and future-ready communities that inspire growth, connection, and a better quality of life for generations to come. We envision landmarks that don't just rise from the ground, but elevate the standards of modern development. Through every project, we aim to blend architectural excellence with community well-being.",
+    body: "To redefine urban living by building sustainable, innovative, and future-ready communities that inspire growth, connection, and a better quality of life for generations to come. We envision landmarks that don&apos;t just rise from the ground, but elevate the standards of modern development. Through every project, we aim to blend architectural excellence with community well-being.",
   },
   {
     heading: "OUR MISSION",
